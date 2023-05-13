@@ -1,2 +1,2 @@
-# vk_bot
-My first vk bot
+# VK chat bot
+This is my first VK chat bot for parsing KHTI timetable
